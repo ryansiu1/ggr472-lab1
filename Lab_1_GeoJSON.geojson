@@ -1,0 +1,170 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Brampton",
+                "Date Completed": 1991,
+                "Architect/Firm": "Robert Posliff"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.75960730135998,
+                    43.68496529745539
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Toronto",
+                "Date Completed": 1965,
+                "Architect/Firm": "Viljo Revell"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.38396616265695,
+                    43.65351882952862
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Toronto",
+                "Date Completed": 1899,
+                "Architect/Firm": "Edward James Lennox"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.38212805748225,
+                    43.6526361772068
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Mississauga",
+                "Date Completed": 1987,
+                "Architect/Firm": "James Stirling"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.64458240400246,
+                    43.58904671786311
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Vaughan",
+                "Date Completed": 2011,
+                "Architect/Firm": "KPMB"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.50757306780599,
+                    43.85560811108053
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Markham",
+                "Date Completed": 1990,
+                "Architect/Firm": "Arthur Erickson"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.33702702979689,
+                    43.856419559035174
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Toronto",
+                "Date Completed": 1979,
+                "Architect/Firm": "Adamson Architects"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.4146523352642,
+                    43.76725522303235
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Toronto",
+                "Date Completed": 1950,
+                "Architect/Firm": "Shore & Moffat"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.4784390681225,
+                    43.68989421636891
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Toronto",
+                "Date Completed": 1990,
+                "Architect/Firm": "West York Construction Ltd."
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.32838544416697,
+                    43.691212882997576
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Oakville",
+                "Date Completed": 2014,
+                "Architect/Firm": "DPAI Architecture Inc."
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.68757548443908,
+                    43.46735542392034
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Toronto",
+                "Date Completed": 1973,
+                "Architect/Firm": "Raymond Moriyama"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.25758781447625,
+                    43.77292094555216
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}
